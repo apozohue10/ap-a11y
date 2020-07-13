@@ -1,0 +1,29 @@
+{
+    "11111111": {
+        "vision" : 0,
+        "color" : 0,
+        "hearing" : 0,
+        "vocal" : 0,
+        "manipulation" : 0,
+        "reach" : 0,
+        "cognition" : 0
+    },
+    "22222222": {
+        "vision" : 0,
+        "color" : 0,
+        "hearing" : 0,
+        "vocal" : 0,
+        "manipulation" : 0,
+        "reach" : 0,
+        "cognition" : 0
+    },
+    "33333333": {
+        "vision" : 0,
+        "color" : 0,
+        "hearing" : 0,
+        "vocal" : 0,
+        "manipulation" : 0,
+        "reach" : 0,
+        "cognition" : 0
+    }
+}
